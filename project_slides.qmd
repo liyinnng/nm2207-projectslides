@@ -1,0 +1,83 @@
+---
+title: "The danger of Social Media"
+subtitle: "What are the relationships between social media usage and its negative impacts?"
+format: 
+  revealjs:
+    theme: solarized.scss
+editor: visual
+footer: "© Soh Li Ying"
+---
+
+##  {data-menu-title="Introduction"}
+
+![](slide-1.png) <br>
+
+------------------------------------------------------------------------
+
+##  {data-menu-title="Growing worry"}
+
+::: {style="text-align: center;"}
+As social media usage continues to expand globally, there is a growing worry about its impact on the mental and overall health of individuals and communities.
+
+<img src="rising-trend.gif" alt="Social Media Trend" width="30%" height="auto"/>
+:::
+
+------------------------------------------------------------------------
+
+##  {data-menu-title="Social Media perception"}
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+![](NM2207.gif)
+:::
+
+::: {.column width="50%"}
+A survey conducted by the [Cybersmile Foundation](https://www.marketingtechnews.net/news/2022/jun/22/89-of-people-feel-social-media-negatively-affects-their-mental-health/) reveals that a significant 89% of social media users perceive social media as **harmful** to their mental well-being.
+:::
+:::
+
+------------------------------------------------------------------------
+
+##  {data-menu-title="Impact of SM on youths"}
+
+[According Ms Ranjini Veerappan](https://www.channelnewsasia.com/singapore/big-read-teenagers-social-media-addiction-cost-mental-health-3647121), a certified addiction specialist at Holistic Psychotherapy Centre, a child's brain is still maturing and rapidly developing until they are about 25 years old. This leads to the prevalence of negative effects of social media amongst **youths**.
+
+<br>
+
+::: columns
+::: {.column width="80%"}
+Research by the [National Center for Health Research](https://www.center4research.org/social-media-affects-mental-health/) has also conducted a study on adolescents has identified that **body image**, for girls and boys, is harmed by social media use.
+:::
+
+::: {.column width="20%"}
+![](body-shaming.png)
+:::
+:::
+
+------------------------------------------------------------------------
+
+##  {#TheEnd data-menu-title="Last Slide"}
+
+::: {.slide-container .centered}
+::: {.slide-title .center-text}
+Let's move on!
+:::
+
+```{r}
+#| eval: true 
+#| echo: false
+#| fig-align: "center"
+#| out-width: "50%" 
+knitr::include_graphics("pikachu-investigate.gif")
+```
+
+::: {.center-text .body-text-l}
+Next, we will find out more of their relationship with the data set we are working on, in courtesy of [Kaggle](https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health)
+:::
+
+::: footer
+Slides available on [GitHub {{< fa-brands github >}}](https://liyinnng.github.io/nm2207-slides/NM2207.html#/title-slide)
+:::
+:::
